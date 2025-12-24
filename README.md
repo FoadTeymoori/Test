@@ -64,10 +64,6 @@ This Is IRAN code
  |IRAN|X|TAYBAD|
  |IRAN|X|TAYBAD|
 
- ---
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoadTeymoori&show_icons=true&theme=merko)
-
 ---
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
