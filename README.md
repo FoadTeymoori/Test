@@ -1,4 +1,5 @@
-![Uploading NieRAutomata 2026-06-13 05-01-40-198.jpg…]()
+<img width="1920" height="1080" alt="NieRAutomata 2026-06-13 05-01-40-198" src="https://github.com/user-attachments/assets/54865597-d7de-4610-a8b0-49a1f34ebcc7" />
+
 
 ![photo_2025-12-19_15-24-36](https://github.com/user-attachments/assets/5d43344f-8146-44dd-92b1-4e8ce4ccce1d)
 
