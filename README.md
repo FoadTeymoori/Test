@@ -1,3 +1,4 @@
+![Uploading NieRAutomata 2026-06-13 05-01-40-198.jpg…]()
 
 ![photo_2025-12-19_15-24-36](https://github.com/user-attachments/assets/5d43344f-8146-44dd-92b1-4e8ce4ccce1d)
 
