@@ -60,9 +60,9 @@ This Is IRAN code
 
  | 1 | 2 | 3 |
  |--|--|--|
- |IRAN|X|TAYBAD|
- |IRAN|X|TAYBAD|
- |IRAN|X|TAYBAD|
+ |IRAN|X|IR|
+ |IRAN|X|IR|
+ |IRAN|X|IR|
 
 ---
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
