@@ -175,3 +175,24 @@ This Is IRAN code
 
 ###
 </div>
+
+
+
+<p align="center">
+  <img src="https://github.com/0xPacman/0xPacman/blob/master/spin.gif" alt="loading..." />
+</p>
+
+
+<div align="center">
+
+## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="28"> GitHub Languages Card
+
+<p align="center">
+  <a href="https://github.com/FoadTeymoori/github-languages-card">
+    <img
+      src="https://github-languages-card.vercel.app/api/top-languages?username=FoadTeymoori&theme=darkNeon"
+      width="760"
+      alt="GitHub Languages Card"
+    />
+  </a>
+</p>
