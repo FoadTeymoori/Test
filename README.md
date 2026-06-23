@@ -82,3 +82,17 @@ This Is IRAN code
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+# مدار و اتصالات       
+
+
+<p align="center"> <img src="https://github.com/user-attachments/assets/a9272998-e404-43db-af71-3851c22303b7" width="350"> </p>
+
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,cpp&perline=4" />
+</p>
+
+<p align="center"> <a href="https://t.me/FoadTeymoori"> <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram"> </a> </p>
