@@ -153,3 +153,25 @@ This Is IRAN code
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/BSSE23004/BSSE23004/output/pacman-contribution-graph.svg">
 </picture>
 
+
+
+| <img src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/nachoanimado.png" width="300"/> | ### Sobre mí <3 <br/><br/> Hola!!! Soy **Ignacio Andrés Pérez Olavarría**, un apasionado desarrollador Semi-Senior **SSR** de 23 años, desde las hermosas tierras de **Puerto Varas, Chile** 🇨🇱. Titulado de **Ingeniería en Informática del Instituto Profesional Santo Tomás**, actualmente trabajo en **Puerto Montt** para **AST Networks** como programador para el área i+d+i: investigación desarrollo e innovación. <br/><br/> Mi lenguaje de programación favorito es Python. Puedes visitar mi [portafolio](https://nachoportafolio.me/) o mi [blog](https://nachoblog.hashnode.dev/). |
+|:---:|---|
+
+
+
+<h2 align="center">Profile View</h1>
+<div align="center">
+  <img src="https://count.getloli.com/@:eimantahir027?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+
+
+---
+### 🐍 Contribution Snake
+![Contribution](https://github.com/ProgrammerDATCH/ProgrammerDATCH/blob/output/github-contribution-grid-snake-dark.svg)
+
+> A dedicated developer focused on clean code and meaningful collaborations.
+
+###
+</div>
