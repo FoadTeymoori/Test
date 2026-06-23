@@ -1,3 +1,9 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Foad+T....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 <img width="1920" height="1080" alt="NieRAutomata 2026-06-13 05-01-40-198" src="https://github.com/user-attachments/assets/54865597-d7de-4610-a8b0-49a1f34ebcc7" />
 
 
@@ -96,3 +102,54 @@ This Is IRAN code
 </p>
 
 <p align="center"> <a href="https://t.me/FoadTeymoori"> <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram"> </a> </p>
+
+
+
+### My GitHub Stats
+
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+<a href="https://github.com/BSSE23004">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bsse23004&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</a>
+</td>
+
+<td>
+<a href="https://github.com/BSSE23004">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bsse23004&layout=compact&langs_count=8&theme=dark"/>
+</a>
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td>
+<a href="https://github.com/BSSE23004">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BSSE23004&theme=github_dark"/>
+</a>
+</td>
+
+<td>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BSSE23004&theme=github_dark"/>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BSSE23004/BSSE23004/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BSSE23004/BSSE23004/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/BSSE23004/BSSE23004/output/pacman-contribution-graph.svg">
+</picture>
+
