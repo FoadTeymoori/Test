@@ -198,3 +198,26 @@ This Is IRAN code
 
 
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=280&section=header&text=Foad%20Teymoori&fontSize=95&fontColor=ffffff&fontAlignY=45&animation=twinkling&stroke=7B2FFF&strokeWidth=3&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Software%20Developer&descSize=20&descAlignY=68&descColor=C8B8FF&descAlign=50" width="100%"/>
+
+<br/>
+
+## `◈` About
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0020,50:4B00D1,100:7B2FFF&height=200&section=footer&text=Your%20support%20is%20appreciated.&fontSize=30&fontAlign=50&fontAlignY=60&fontColor=E0AAFF&desc=Follow%20for%20future%20technical%20developments.&descSize=16&descAlign=50&descAlignY=80&animation=twinkling" width="100%"/>
+
+</div>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=FoadTeymoori&style=for-the-badge&color=7B2FFF&label=PROFILE+VIEWS&labelColor=0d0020"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/FoadTeymoori?style=for-the-badge&color=200040&labelColor=0d0020&logo=github&logoColor=C8B8FF&label=FOLLOWERS&cacheSeconds=3600"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/STARS-26-FFD60A?style=for-the-badge&color=FFD60A&labelColor=000000&logo=github&logoColor=FFD60A"/>
+
+</div>
