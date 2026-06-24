@@ -114,13 +114,13 @@ This Is IRAN code
 <tr>
 <td>
 <a href="https://github.com/BSSE23004">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bsse23004&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FoadTeymoori&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </a>
 </td>
 
 <td>
 <a href="https://github.com/BSSE23004">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bsse23004&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FoadTeymoori&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </td>
 </tr>
@@ -132,13 +132,13 @@ This Is IRAN code
 <tr>
 <td>
 <a href="https://github.com/BSSE23004">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BSSE23004&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FoadTeymoori&theme=github_dark"/>
 </a>
 </td>
 
 <td>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BSSE23004&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FoadTeymoori&theme=github_dark"/>
 </a>
 </td>
 </tr>
@@ -154,9 +154,6 @@ This Is IRAN code
 </picture>
 
 
-
-| <img src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/nachoanimado.png" width="300"/> | ### Sobre mí <3 <br/><br/> Hola!!! Soy **Ignacio Andrés Pérez Olavarría**, un apasionado desarrollador Semi-Senior **SSR** de 23 años, desde las hermosas tierras de **Puerto Varas, Chile** 🇨🇱. Titulado de **Ingeniería en Informática del Instituto Profesional Santo Tomás**, actualmente trabajo en **Puerto Montt** para **AST Networks** como programador para el área i+d+i: investigación desarrollo e innovación. <br/><br/> Mi lenguaje de programación favorito es Python. Puedes visitar mi [portafolio](https://nachoportafolio.me/) o mi [blog](https://nachoblog.hashnode.dev/). |
-|:---:|---|
 
 
 
@@ -196,3 +193,11 @@ This Is IRAN code
     />
   </a>
 </p>
+
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@kuroi.dev?theme=FoadTeymoori" alt="visitor counter" />
+</p>
+
+
+
