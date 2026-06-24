@@ -159,7 +159,7 @@ This Is IRAN code
 
 <h2 align="center">Profile View</h1>
 <div align="center">
-  <img src="https://count.getloli.com/@:eimantahir027?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:FoadTeymoori?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 
@@ -170,11 +170,8 @@ This Is IRAN code
 
 > A dedicated developer focused on clean code and meaningful collaborations.
 
-###
+
 </div>
-
-
-
 <p align="center">
   <img src="https://github.com/0xPacman/0xPacman/blob/master/spin.gif" alt="loading..." />
 </p>
@@ -196,7 +193,7 @@ This Is IRAN code
 
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@kuroi.dev?theme=FoadTeymoori" alt="visitor counter" />
+  <img src="https://count.getloli.com/get/@FoadTeymoori?theme=FoadTeymoori" alt="visitor counter" />
 </p>
 
 
