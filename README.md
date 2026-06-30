@@ -226,7 +226,7 @@ This Is IRAN code
 ```yaml
 name        : Foad
 role        : AI & Machine Learning Student
-college     : Sethu Institute of Technology
+college     :  Technology
 location    : Iran
 currently   :
   - DSA for Placements
