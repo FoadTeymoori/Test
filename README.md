@@ -6,9 +6,7 @@
 
 <img width="1920" height="1080" alt="NieRAutomata 2026-06-13 05-01-40-198" src="https://github.com/user-attachments/assets/54865597-d7de-4610-a8b0-49a1f34ebcc7" />
 
-
 ![photo_2025-12-19_15-24-36](https://github.com/user-attachments/assets/5d43344f-8146-44dd-92b1-4e8ce4ccce1d)
-
 
 # <3 X_X
 ### Test 
@@ -89,11 +87,8 @@ This Is IRAN code
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-# مدار و اتصالات       
-
-
+# مدار و اتصالات      
 <p align="center"> <img src="https://github.com/user-attachments/assets/a9272998-e404-43db-af71-3851c22303b7" width="350"> </p>
-
 
 ---
 
@@ -103,10 +98,7 @@ This Is IRAN code
 
 <p align="center"> <a href="https://t.me/FoadTeymoori"> <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram"> </a> </p>
 
-
-
 ### My GitHub Stats
-
 
 <div align="center">
 
@@ -154,15 +146,10 @@ This Is IRAN code
 </picture>
 
 
-
-
-
 <h2 align="center">Profile View</h1>
 <div align="center">
   <img src="https://count.getloli.com/@:FoadTeymoori?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
-
-
 
 ---
 ### 🐍 Contribution Snake
@@ -196,8 +183,6 @@ This Is IRAN code
   <img src="https://count.getloli.com/get/@FoadTeymoori?theme=FoadTeymoori" alt="visitor counter" />
 </p>
 
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=280&section=header&text=Foad%20Teymoori&fontSize=95&fontColor=ffffff&fontAlignY=45&animation=twinkling&stroke=7B2FFF&strokeWidth=3&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Software%20Developer&descSize=20&descAlignY=68&descColor=C8B8FF&descAlign=50" width="100%"/>
@@ -222,7 +207,6 @@ This Is IRAN code
 
 </div>
 
-
 ```yaml
 name        : Foad
 role        : AI & Machine Learning Student
@@ -240,16 +224,11 @@ currently   :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-
-
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="50" height="50" /> Quote
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&border=true" alt="Dev Quote" height="270" />
 </div>
-
-
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31x4eattmiux5c2w2b3agrpg44ma&cover_image=true&theme=novatorem&show_offline=false&background_color=ffadad&interchange=false&bar_color=ffadad&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31x4eattmiux5c2w2b3agrpg44ma&redirect=true)
