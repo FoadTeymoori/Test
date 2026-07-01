@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
+</p>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Foad+T....;Nice+to+meet+you!&center=true&size=30">
@@ -231,5 +235,42 @@ currently   :
 </div>
 
 
+
+
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31x4eattmiux5c2w2b3agrpg44ma&cover_image=true&theme=novatorem&show_offline=false&background_color=ffadad&interchange=false&bar_color=ffadad&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31x4eattmiux5c2w2b3agrpg44ma&redirect=true)
 
+
+
+
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDY0aG1mZzRsbGEwMXlxMHc4NDVvNWNjdXlsYmdwYzJrNmNrdXhoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SOrriiX6kX6UBMZzbt/giphy.gif" width="40"> GitHub Statistics
+
+<p align="center"> <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" /> </p>
+
+<table align="center" width="100%">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://repobeats.axiom.co/api/embed/7318c4aa8418d534269ac626a70f17412b67b3bf.svg" alt="daxxtropezz" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <!-- 2650C0, FF0000 -->
+      
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=FoadTeymoori&theme=github-dark-blue&mode=daily&exclude_days=Sun%2CSat&hide_border=true&stroke=2650C0" alt="streak graph"/>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/f0fc405636a24dcd824a74946e5aabb469613875/assets/images/footer.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/f0fc405636a24dcd824a74946e5aabb469613875/assets/images/footer.svg">
+    <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/footer.svg" alt="Footer" width="100%" />
+  </picture>
+</div>
+
+<p align="center"> <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" /> </p>
