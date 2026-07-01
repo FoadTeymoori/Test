@@ -273,4 +273,3 @@ currently   :
   </picture>
 </div>
 
-<p align="center"> <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" /> </p>
