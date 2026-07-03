@@ -51,9 +51,9 @@ int main() {
 }
 ```
 ```diff
-This Is IRAN code
-- This is IRAN code
-+ This is IRAN code
+This Is  code
+- This is  code
++ This is  code
 ```
 ---
 # LINK 
