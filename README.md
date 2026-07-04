@@ -262,10 +262,6 @@ currently   :
   </tr>
 </table>
 
-
-
-
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/f0fc405636a24dcd824a74946e5aabb469613875/assets/images/footer.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/f0fc405636a24dcd824a74946e5aabb469613875/assets/images/footer.svg">
