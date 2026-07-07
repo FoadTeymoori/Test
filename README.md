@@ -318,3 +318,4 @@ currently   :
 
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> / <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="_blank">gh-profile-readme-generator</a> + some customizations</div>
 
+<img width="2048" height="1419" alt="photo_2026-07-07_09-18-45" src="https://github.com/user-attachments/assets/7ef93796-d370-419f-bd65-1cef52edab21" />
