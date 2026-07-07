@@ -83,7 +83,7 @@ This Is  code
 -    - [x] Item 2
 -    - [x] Item 3
 -    - [ ] Item 4
--    - [ ] Item 5
+-    - [X] Item 5
 -    - [ ] Item 6
 -    - [x] Item 7
 
